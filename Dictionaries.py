@@ -3,11 +3,11 @@
 """
 
 student_scores = {
-  "Harry": 81,
+  "Harry": 82,
   "Ron": 78,
   "Hermione": 99, 
-  "Draco": 74,
-  "Neville": 62,
+  "Draco": 75,
+  "Neville": 64,
 }
 # 🚨 Don't change the code above 👆
 
