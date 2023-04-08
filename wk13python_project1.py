@@ -1,5 +1,5 @@
 """
-Week13 Python Project
+Week13 Python Project1
 """
 
 #!/usr/bin/env python3.7
@@ -26,11 +26,3 @@ for dirpath, dirnames, filenames in os.walk(working_directory ):
 # Print the list of dictionaries (using the 'sep' parameter with \n to separate each dictionary into a new line.)   
 
 print(*empty_list, sep="\n")
-
-
-
-
-
-
-
-
